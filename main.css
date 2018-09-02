@@ -7,7 +7,7 @@ div {
   border-radius: 50%; /* this makes the normally square div round */
   border-left-color: indigo; /* these remove the color from the left side */
   border-right-color: green; /* the right side */
-  border-bottom-color: blue;}
+  border-bottom-color: transparent;}
 
 #red { border-top-color: #f00;}
 #orange { border-top-color: #ffa500;}
